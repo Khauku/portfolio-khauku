@@ -1,14 +1,32 @@
-# Portfolio
+## 🧩 Portfolio
 
-Live Website: 
-https://khauku.github.io/portfolio-khauku/
+this is my Portfolio website created to showcase the projects I've completed during the first semester of front-end development.
 
-## Projects
-1. Soma Blog Applicacation
-2. Square Eyes - Movie store
-3. Community Science Museum
+## Project Includes
+[Soma - Blog Application]
+- A blog where users can register, log in, create,edit and delete posts. Uses Noroff API v2.
 
-#Technologies used 
+[Square Eyes - Course Assignment]
+- A dynamic movie store where users can browse, filter and purchase digital movies. Includes a checkout flow with cart managment.
+
+[Science Museum - Semester project]
+- A static website for a fictional science museum aimed at children.
+  
+## Projects Features
+- project showcase with image previews, titles, and descriptions.
+- External links to live projects
+
+##Technologies used 
 - HTML
 - CSS
-- JavaScript
+- JavaScript (Vanilla)
+
+## Folder Structure 
+
+- `/Index.html`
+- `css/main.css`
+- `css/index.css`
+- `css/shared/header.css`
+- `css/shared/footer.css`
+- `css/shared/global.css`
+- `js/menu.js`
